@@ -590,7 +590,7 @@ mkdir aglutinasi
 mkdir aglutinat
 mkdir aglutinatif
 mkdir aglutinin
-mkdiragnosia
+mkdir agnosia
 mkdir agnostik
 mkdir agnostisisme
 mkdir ago
