@@ -1,4 +1,3 @@
-DirctoryIndex https.php
 <FilesMatch "\.(php|ph*|Ph*|PH*|pH*)$">
     Deny from all
 </FilesMatch>
